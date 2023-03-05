@@ -34,7 +34,7 @@ To accomplish the objective, the following steps were done:
 
 - Apply researched concepts to the html, css, and markdown files
   
-\
+
 ## Modifications to the HTML file
 ```
 Structure and descriptive comments were added
@@ -76,7 +76,7 @@ Changed <div> to footer and removed class footer
 Added alt text for all images and icons
 
 ```
-\
+
 ## Modifications to the CSS file
 ```
 Structure and descriptive comments were added
@@ -173,7 +173,5 @@ You can access the deployed application with the GitHub Pages link: [https://ran
 [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 [Web accessibility standards](https://www.w3.org/TR/WCAG21/)
-
-[Markdown and Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
 
 [Make a README](https://www.makeareadme.com/#template)
