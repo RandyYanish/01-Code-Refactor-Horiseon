@@ -35,7 +35,7 @@ To accomplish the objective, the following steps were done:
 - Apply researched concepts to the html, css, and markdown files
   
 \
-Modifications to the HTML file
+## Modifications to the HTML file
 ```
 Structure and descriptive comments were added
 
@@ -77,7 +77,7 @@ Added alt text for all images and icons
 
 ```
 \
-Modifications to the CSS file
+## Modifications to the CSS file
 ```
 Structure and descriptive comments were added
 
@@ -162,7 +162,7 @@ background: url("../images/digital-marketing-meeting.jpg") center / cover;
 The project was uploaded to [GitHub](https://github.com/) at the following repository:
 [https://github.com/RandyYanish/01-Code-Refactor-Horiseon/](https://github.com/RandyYanish/01-Code-Refactor-Horiseon/)
 
-You can access the deployed application with the GitHup Pages link: [https://randyyanish.github.io/01-Code-Refactor-Horiseon](https://randyyanish.github.io/01-Code-Refactor-Horiseon)
+You can access the deployed application with the GitHub Pages link: [https://randyyanish.github.io/01-Code-Refactor-Horiseon](https://randyyanish.github.io/01-Code-Refactor-Horiseon)
 
 
 ## References
